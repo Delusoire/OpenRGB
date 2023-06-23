@@ -38,7 +38,7 @@ keyboard_keymap_overlay_values razer_blackwidow_layout
         {   0,      0,      0,          0,          KEY_EN_UNUSED,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },  // Move 'Esc' 1 right
         {   0,      0,      2,          0,          KEY_EN_UNUSED,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },  // Move 'F1' 1 right (Shifts row)
         {   0,      1,      0,          0,          KEY_EN_UNUSED,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },  // Move Backtick 1 right (Shifts row)
-        {   0,      1,      14,         0,          KEY_EN_EQUALS,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },
+        {   0,      1,      14,         0,          KEY_EN_BACKSPACE,           KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },
         {   0,      2,      0,          0,          KEY_EN_UNUSED,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },  // Move Tab 1 right (Shifts row)
         {   0,      3,      0,          0,          KEY_EN_UNUSED,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },  // Move Caps 1 right (Shifts most of row)
         {   0,      3,      13,         0,          KEY_EN_UNUSED,              KEYBOARD_OPCODE_INSERT_SHIFT_RIGHT, },  // Move Enter 1 right
